@@ -36,15 +36,16 @@ const styles = StyleSheet.create({
 
     },
     buttonOrder: {
-        width: 80,
+        width: 120,
         position: "absolute",
         bottom: 40,
         left: 24,
         backgroundColor: color.sliderOrderBtnText,
         borderRadius: 20,
         color: color.white,
-        borderRadius: 20,
+        borderRadius: 30,
     },
+
 
 })
 

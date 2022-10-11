@@ -6,9 +6,11 @@ import Slider from './components/slider/index.js';
 import JobList from './components/joblist/index.js';
 import FixHis from './components/fixHis/index.js';
 import Menu from './components/Menu/index.js';
+import Login from './src/view/login/index.js';
 export default function App() {
   return (
     <View style={styles.container}>
+      {/* <Login /> */}
       <ScrollView style={styles.scrollView}>
         <Header />
         <Slider />

@@ -13,7 +13,7 @@ const header = () => {
                 <Text style={styles.textName}>Lê Minh Đức</Text>
             </View>
             <View style={styles.headerNoti}>
-                <Text >Icon</Text>
+                <Text >🔔</Text>
             </View>
         </View>
     )

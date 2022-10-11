@@ -11,8 +11,7 @@ const styles = StyleSheet.create({
     },
     menuItem: {
         marginHorizontal: 28,
-        marginTop: 30,
-        marginBottom: 16,
+        marginVertical: 14,
         flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center',
