@@ -7,17 +7,23 @@ import JobList from './components/joblist/index.js';
 import FixHis from './components/fixHis/index.js';
 import Menu from './components/Menu/index.js';
 import Login from './src/view/login/index.js';
+import Welcome from './src/view/welcome/index.js';
+import Profile from './src/view/profile/index.js';
+
+
 export default function App() {
   return (
     <View style={styles.container}>
-      {/* <Login /> */}
+      {/* <Welcome />
+      <Login />
+      <Profile />
       <ScrollView style={styles.scrollView}>
         <Header />
         <Slider />
         <JobList />
         <FixHis />
       </ScrollView>
-      <Menu />
+      <Menu /> */}
     </View>
   );
 }

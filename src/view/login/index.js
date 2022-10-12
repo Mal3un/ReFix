@@ -46,7 +46,7 @@ export default Login = () => {
                             </View>
                         </View>
                         {/* forgot */}
-                        <View style={{ paddingHorizontal: 40, marginTop: 100, flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
+                        <View style={{ paddingBottom: 40, paddingHorizontal: 40, marginTop: 100, flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
 
                             <Image
                                 style={{ width: 70, height: 75, marginTop: 0.05 * windowHeight, marginHorizontal: 10 }}
